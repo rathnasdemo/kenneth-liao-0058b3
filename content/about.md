@@ -4,7 +4,7 @@ schemaVersion: 2.0.0
 id: 01a168e1-ab3d-7a52-a5ec-5b9cf45e06a0
 kind: page
 title: About
-description: The purpose and editorial principles behind this publication.
+description: About Kenny Liao.
 language: en-US
 authors:
 - 01a168e1-ab3d-763f-bac9-92638c7ec5cd
@@ -16,16 +16,10 @@ slug: about
 redirects: []
 extensions: {}
 ---
+Kenneth Liao publishes videos on YouTube as [Kenny Liao](https://www.youtube.com/@KennethLiao/videos).
 
-This publication is a place for considered work: finished essays, useful field
-notes, and the ideas that become clearer through writing.
+The articles on this site are written versions of those videos, each one linked to the original.
 
-## Editorial principles
-
-- Prefer evidence to certainty.
-- Make the useful detail easy to find.
-- Revise in public when the facts change.
-- Keep ownership of the archive and its history.
-
-It is created and published with Galascribe, while its Markdown content and
-publication settings remain in this repository.
+<!-- galascribe:demo-notice -->
+**This is a preview.** Galascribe built this site from Kenneth Liao's videos to show what a written version of the channel could look like. Kenneth hasn't claimed it yet, and it is hidden from search engines until then. Questions: support@galascribe.com.
+<!-- /galascribe:demo-notice -->
